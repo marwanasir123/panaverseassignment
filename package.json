@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+  "name": "assignment-3",
+=======
+  "name": "work",
+>>>>>>> e3e4b305e7a9d160fc22cc0fa20df78ea1b1531e
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+<<<<<<< HEAD
+  "keywords": [],
+=======
+>>>>>>> e3e4b305e7a9d160fc22cc0fa20df78ea1b1531e
+  "author": "",
+  "license": "ISC"
+}
